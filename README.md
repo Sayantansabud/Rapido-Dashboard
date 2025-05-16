@@ -15,9 +15,13 @@ The dashboard enables quick insights into service performance, customer satisfac
 
 # 🛠️ Technologies Used:
 Power BI: Data visualization and dashboard design
+
 DAX (Data Analysis Expressions): Custom measures and KPIs
+
 CSV Data Import: Source data ingestion and transformation
+
 Power Query Editor: Data cleaning and transformation
+
 Data Modeling: Relationships between tables for accurate visual insights
 
 # 🔗 Data Source:
