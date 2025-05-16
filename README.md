@@ -44,6 +44,7 @@ Cancellation Reasons<br />
 📉 Clear visual storytelling through slicers and charts<br />
 📁 Clean, user-friendly layout for non-technical users<br />
 
+#  Dashboard Preview:
 ![Overall](https://github.com/user-attachments/assets/bc125fb5-44ad-4f16-a151-076e4f2dda71)
 ![Vehicle Type](https://github.com/user-attachments/assets/e6630b5e-c54d-4dd9-8ecb-c1be19236771)
 ![Ratings](https://github.com/user-attachments/assets/f0e63839-3e7b-4194-988c-e1d0e515f14c)
