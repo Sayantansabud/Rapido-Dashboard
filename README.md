@@ -14,7 +14,7 @@ Top-performing customers and vehicle types
 The dashboard enables quick insights into service performance, customer satisfaction, and operational bottlenecks, supporting data-driven decisions to improve ride quality and efficiency.
 
 #  Technologies Used:
-Power BI: Data visualization and dashboard design
+Power BI: Data visualization and dashboard design <br />
 DAX (Data Analysis Expressions): Custom measures and KPIs
 CSV Data Import: Source data ingestion and transformation
 Power Query Editor: Data cleaning and transformation
