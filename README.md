@@ -21,7 +21,7 @@ This project presents a dynamic dashboard built in Power BI that analyzes ride d
 • Data Modeling: Relationships between tables for accurate visual insights<br />
 
 ##  Data Source:
-• CSV file (Bookings.csv) https://github.com/Sayantansabud/Rapido-Dashboard/blob/main/Bookings.csv containing ride-level details such as:
+• CSV file (https://github.com/Sayantansabud/Rapido-Dashboard/blob/main/Bookings.csv) containing ride-level details such as:<br />
 • Booking ID, Customer ID, Vehicle Type<br />
 • Booking Status<br />
 • Driver & Customer Ratings<br />
