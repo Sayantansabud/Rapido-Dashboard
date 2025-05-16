@@ -46,5 +46,3 @@ Cancellation Reasons
 📉 Clear visual storytelling through slicers and charts
 📁 Clean, user-friendly layout for non-technical users
 
-[(https://github.com/Sayantansabud/Rapido-Dashboard/blob/main/Overview.png)]
-https://github.com/Sayantansabud/Rapido-Dashboard/blob/main/Overview.png
