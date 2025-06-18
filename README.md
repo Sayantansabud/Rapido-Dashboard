@@ -1,5 +1,5 @@
 # Rapido Ride Analytics Dashboard
-
+https://app.powerbi.com/view?r=eyJrIjoiN2U4OTdjM2UtYjlkNy00MjdiLWIxM2QtZDU0MTRmNGE2ZTIyIiwidCI6IjQ1OTUxZDVlLTk1ZjItNGZkNy1iYzRjLTgyNmIzNzhhNjRiNCJ9
 ##  Heading:
 An Interactive Power BI Dashboard to Analyze Ride Bookings, Cancellations, and Customer Behavior for Rapido
 
